@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Navbar from './Components/Navbar';
 import Slider from './Components/Slider';
-import Products from './Components/products';
+import Products from './Components/Products';
 import LogoCard from './Components/LogoCard';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
